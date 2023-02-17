@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnav Borborah</h1>
+<h1 align="center">Hi 👋, I'm Arnav!</h1>
 <h3 align="center">A full stack student developer studying computer science</h3>
 
 - 🌱 I’m currently learning **Next.js, Elixir, Rust**
